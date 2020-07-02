@@ -8,3 +8,10 @@ Uma nova linha do arquivo está sendo criada.
 
 
 Segunda linha construída.
+
+
+
+
+
+------------------ Olá! ------------------
+Bem vindo(a) a nossa segunda aula
